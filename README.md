@@ -9,6 +9,14 @@ This application provides DOM specific methods that can be used at the top level
 
 (![image](https://user-images.githubusercontent.com/97990379/185046926-2171ac6b-a7c8-47ba-af8d-ec938d5ed957.png)
 
+## Author
+Anthony Ledesma
+
+## Copyright 
+
+Anthony Ledesma
+
+
 
 
 
